@@ -1,2 +1,3 @@
-# simple_proxies
+# Simple proxies
 proxies from 3 sites...
+从三个免费代理网站爬取的代理列表(120条)，存入proxies.txt中，2分钟刷新一次
